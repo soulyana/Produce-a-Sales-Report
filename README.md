@@ -8,7 +8,7 @@ sales tax, total due.
 
 •Create an IPO diagram showing input, output, and processing steps
 |      Input     |               Processing              |           Output           |
-|:--------------:|:-------------------------------------:|:--------------------------:|
+| -------------- |:-------------------------------------:|:--------------------------:|
 | customerNumber |         Receive customerNumber        |                            |
 |  customerName  |         Receive customerNumber        |                            |
 |   salesAmount  |          Receive customerName         |                            |
