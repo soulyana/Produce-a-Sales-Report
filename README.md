@@ -35,16 +35,15 @@ String, int, double
 
 •Show a check of your solution with test data for at least two valid test cases"
 Test Case 1:
-What is the customer's number?
-3
-What is the customer's name? 
-joe
-What is the sales amount?
-45
-What is their tax code?
-2
-Sales Report
-3 joe $45.0 $2.25 $47.25
+
+|    Prompt                      |      Response           |         
+| ------------------------------ |:-----------------------:|
+| What is the customer's number? | 3                       |                           
+| What is the customer's name?   | joe                     |                           
+| What is the sales amount?      | 45                      |                          
+| What is their tax code?        | 2                       |                           
+| Sales Report                   |3 joe $45.0 $2.25 $47.25 |                           
+
 
 Test Case 2: 
 What is the customer's number?
