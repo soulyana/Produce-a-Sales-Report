@@ -46,13 +46,11 @@ Test Case 1:
 
 
 Test Case 2: 
-What is the customer's number?
-89
-What is the customer's name? 
-Jane
-What is the sales amount?
-44
-What is their tax code?
-0
-Sales Report
-89 Jane $44.0 $0.0 $44.0
+
+|    Prompt                      |      Response           |         
+| ------------------------------ |:-----------------------:|
+| What is the customer's number? | 89                      |                           
+| What is the customer's name?   | Jane                    |                           
+| What is the sales amount?      | 44                      |                          
+| What is their tax code?        | 0                       |                           
+| Sales Report                   |89 Jane $44.0 $0.0 $44.0 |   
