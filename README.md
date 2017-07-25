@@ -7,19 +7,21 @@ Display heading “Sales Report.” Display below heading: customer number, name
 sales tax, total due. 
 
 •Create an IPO diagram showing input, output, and processing steps
-|      Input     |               Processing              |           Output           |
-| -------------- |:-------------------------------------:|:--------------------------:|
-| customerNumber |         Receive customerNumber        |                            |
-|  customerName  |         Receive customerNumber        |                            |
-|   salesAmount  |          Receive customerName         |                            |
-|     taxCode    |          Receive salesAmount          |                            |
-|                |            Receive taxCode            |                            |
-|                | Determine sales tax based on tax code |                            |
-|                |    Multiply salesTax to salesAmount   |                            |
-|                |                                       |       Display heading      |
-|                |                                       |   Display customerNumber,  |
-|                |                                       | customerName, salesAmount, |
-|                |                                       | salesTax, and totalDue     |
+|    Input      | Processing            |          Output           |
+| ------------- |:---------------------:| -------------------------:|
+| customerNumber| Receive customerNumber|                           |
+| customerName  | Receive customerName  |                           |
+| salesAmount   | Receive salesAmount   |                           |
+| taxCode       | Receive taxCode       |                           |
+|               | Determine sales       |                           |
+|               | tax based on tax code |                           |
+|               | Multiply salesTax     |                           |
+|               | to salesAmount        |                           |
+|               | are neat              | Display heading           |
+|               | tax based on tax code | Display customerNumber,   |
+|               | Multiply salesTax     | customerName, salesAmount,|
+|               | to salesAmount        | salesTax, and totalDue    |
+|               | are neat              |                           |
 
 •What control structures (sequence, selection and repetition) are required?
 Switch statement to pivot through tax code to determine sales tax 
@@ -51,12 +53,3 @@ What is their tax code?
 0
 Sales Report
 89 Jane $44.0 $0.0 $44.0
-
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
