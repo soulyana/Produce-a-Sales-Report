@@ -1,6 +1,6 @@
 Produce a Sales Report 
 
-•Define the problem by constructing an algorithm using pseudocode
+•Define the problem by constructing an algorithm using pseudocode:        
 Read a file of sales records. Get customer number, name, sales amount and tax code. 
 Identify category of sales code. Apply sales tax to sales amount based on tax code. 
 Display heading “Sales Report.” Display below heading: customer number, names, sales amount, 
@@ -21,19 +21,19 @@ sales tax, total due.
 |               | tax based on tax code |                           |
 |               | Multiply salesTax     |                           |
 |               | to salesAmount        |                           |
-|               | are neat              | Display heading           |
-|               | tax based on tax code | Display customerNumber,   |
-|               | Multiply salesTax     | customerName, salesAmount,|
-|               | to salesAmount        | salesTax, and totalDue    |
-|               | are neat              |                           |
+|               |                       | Display heading           |
+|               |                       | Display customerNumber,   |
+|               |                       | customerName, salesAmount,|
+|               |                       | salesTax, and totalDue    |
+|               |                       |                           |
 
-•What control structures (sequence, selection and repetition) are required?
+•What control structures (sequence, selection and repetition) are required?   
 Switch statement to pivot through tax code to determine sales tax 
 
-•What variables are required?
+•What variables are required?   
 String, int, double
 
-•Show a check of your solution with test data for at least two valid test cases"
+•Show a check of your solution with test data for at least two valid test cases  
 Test Case 1:
 
 |    Prompt                      |      Response           |         
