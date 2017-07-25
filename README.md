@@ -51,3 +51,12 @@ What is their tax code?
 0
 Sales Report
 89 Jane $44.0 $0.0 $44.0
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
