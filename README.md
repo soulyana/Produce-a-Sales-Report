@@ -42,7 +42,8 @@ Test Case 1:
 | What is the customer's name?   | joe                     |                           
 | What is the sales amount?      | 45                      |                          
 | What is their tax code?        | 2                       |                           
-| Sales Report                   |3 joe $45.0 $2.25 $47.25 |                           
+|                                |Sales Report             |  
+|                                |3 joe $45.0 $2.25 $47.25 | 
 
 
 Test Case 2: 
@@ -53,4 +54,5 @@ Test Case 2:
 | What is the customer's name?   | Jane                    |                           
 | What is the sales amount?      | 44                      |                          
 | What is their tax code?        | 0                       |                           
-| Sales Report                   |89 Jane $44.0 $0.0 $44.0 |   
+|                                |Sales Report             |  
+|                                |89 Jane $44.0 $0.0 $44.0 | 
